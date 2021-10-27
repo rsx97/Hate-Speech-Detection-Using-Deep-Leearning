@@ -1,5 +1,5 @@
 # Hate-Speech-Detection-Using-Deep-Leearning
-The main objective of this study was to develop a language independent detection method to detect hate speech on social networks using LSTM long term memory networks, then at the end make an implementation with flask .
+The main objective of this study was to develop a language independent detection method to detect hate speech on social networks using LSTM , then at the end make an implementation with flask .
 
 
 # Overview:
