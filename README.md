@@ -15,7 +15,7 @@ The entire process involves the following:
 
 # The problem:
 
-1.  Too many Hate speech tweets
+1.  Dataset for hate speech are not available
 2.  Each tweet takes too much time for hate checking 
 3.  Number of volunteers is very small
 4.  Classifying hate speech can be tough : -https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0221152
